@@ -1,0 +1,51 @@
+
+
+// Import all the variables into the main css file.
+// @import "variables";
+
+
+
+$sansFontFamily: "Source Sans Pro";
+$primaryDark: #06276F;
+$navbarBackground: $primaryDark;
+$navbarBackgroundHighlight: #1142AA;
+$navbarText: #CCCCCC;
+$navbarLinkColor: #CCCCCC;
+$navbarLinkColorHover: #fff;
+// I gather this file is a starting point for the project.
+@import "bootstrap";
+
+// Include responsive Bootstrap styles
+// @import "bootstrap-responsive";
+
+@font-face 
+{
+font-family: "Julius Sans One";
+src: url('JuliusSansOne.ttf');  
+}
+
+@font-face
+{
+font-family: "Source Sans Pro";
+src: url("SourceSansPro-Regular.ttf");
+}
+
+
+body {
+  font-size: 20px;
+}
+
+h1 {font-family: 'Julius Sans One';
+    font-size: 50px;}
+
+p {font-family: 'Source Sans Pro';
+   font-size: 19px;}
+
+a {
+  color: #1142AA;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: #06276F;
+}
