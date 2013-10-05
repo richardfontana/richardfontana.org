@@ -21,7 +21,7 @@ $navbarLinkColorHover: #fff;
 @font-face 
 {
 font-family: "Julius Sans One";
-src: url('JuliusSansOne.ttf');  
+src: url(http://:/) format("No-IE-404"), url('JuliusSansOne.ttf') format('truetype');
 }
 
 @font-face
