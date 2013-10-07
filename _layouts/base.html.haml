@@ -25,14 +25,16 @@
               %a{ :href=>"#{site.base_url}/presentations" } Presentations
             %li
               %a{ :href=>"#{site.base_url}/contact" } Contact
-
-
-
     .container
+      .row
+        .span4
+        %h1 <span style="color:#06276F;">Richard</span> <span style="color:#1142AA;">Fontana</span>
+        .span4
+        .span4
       ~ content
       %hr
       %footer
         %p &copy; #{Date.today.year} Richard Fontana.  License: <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">CC BY-SA 3.0 US</a>. Site created with <a href="http://awestruct.org">Awestruct</a>.
-    -# Uncomment script tags (remove leading -#) when you're ready to use behaviors
-    -# %script{ :type=>'text/javascript', :src=>'//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js' }
-    -# %script{ :type=>'text/javascript', :src=>"#{site.base_url}/javascripts/bootstrap-collapse.js" }
+  -# Uncomment script tags (remove leading -#) when you're ready to use behaviors
+  -# %script{ :type=>'text/javascript', :src=>'//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js' }
+  -# %script{ :type=>'text/javascript', :src=>"#{site.base_url}/javascripts/bootstrap-collapse.js" }
