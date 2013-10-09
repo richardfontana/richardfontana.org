@@ -5,11 +5,14 @@ layout: base
 Speaking Engagements, Interviews and Conference Tracks
 ------------------------------------------------------
    
-"Licenses and Lawyers!" (interview) (JBoss Asylum 31, recorded
-September 12, 2013) (mp3, ogg).
+"Licenses and Lawyers!" (interview) ([JBoss Asylum
+31](http://jbosscommunityasylum.libsyn.com/podcast-31-licenses-and-lawyers),
+recorded September 12, 2013)
+([mp3](http://traffic.libsyn.com/jbosscommunityasylum/JBossCommunityAsylumPodcast-Episode31.mp3),
+[ogg](http://traffic.libsyn.com/jbosscommunityasylum/JBossCommunityAsylumPodcast-Episode31.ogg)).
 
 "The Legal Side of the POSS World" (OSCON, Portland, July 24, 2013)
-(slides).
+([slides](http://cdn.oreillystatic.com/en/assets/1/event/95/The%20Legal%20Side%20of%20the%20POSS%20World%20Presentation.pdf) (pdf)).
 
 "Panel &mdash; GNU Affero General Public License, Version 3"
 (panelist) (Linux Foundation Collaboration Summit, San Francisco,
